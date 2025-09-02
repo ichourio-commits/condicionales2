@@ -96,3 +96,9 @@ if(A<=76):
 
 else:
     print("este resultado no se cumple")
+#A DIFERENTE DE A
+if(A!=12):
+    print(f"12 es diferente a:{A}")
+
+else:
+    print(f"es igual a 12{A}")
